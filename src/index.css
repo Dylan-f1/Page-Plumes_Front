@@ -1,13 +1,2 @@
-*, *::before, *::after {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: 'Segoe UI', system-ui, sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
-
-#root {
-  min-height: 100vh;
-}
+/* Importe toutes les classes utilitaires de Tailwind CSS */
+@import "tailwindcss";
